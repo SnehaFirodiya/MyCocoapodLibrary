@@ -7,6 +7,7 @@
 //
 
 #import "OBViewController.h"
+@import MyCocoapodLibrary;
 
 @interface OBViewController ()
 

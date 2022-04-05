@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'The PubMatic OpenWrap SDK Adapter. The PubMatic OpenWrap SDK Adapter. The PubMatic OpenWrap SDK Adapter'
 
   s.homepage         = 'https://github.com/SnehaFirodiya/MyCocoapodLibrary'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -30,7 +28,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'MyCocoapodLibrary/Classes/**/*'
+  s.source_files = 'MyCocoapodLibrary/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'MyCocoapodLibrary' => ['MyCocoapodLibrary/Assets/*.png']
