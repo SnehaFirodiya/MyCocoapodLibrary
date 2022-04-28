@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyCocoapodLibrary'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'Sneha created this for testing'
   
 # This description is used to generate tags and improve search results.
